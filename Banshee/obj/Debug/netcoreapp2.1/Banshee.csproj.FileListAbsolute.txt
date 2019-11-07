@@ -1,0 +1,14 @@
+C:\Users\d.florez\10p\Banshee\Banshee\bin\Debug\netcoreapp2.1\Banshee.deps.json
+C:\Users\d.florez\10p\Banshee\Banshee\bin\Debug\netcoreapp2.1\Banshee.runtimeconfig.json
+C:\Users\d.florez\10p\Banshee\Banshee\bin\Debug\netcoreapp2.1\Banshee.runtimeconfig.dev.json
+C:\Users\d.florez\10p\Banshee\Banshee\bin\Debug\netcoreapp2.1\Banshee.dll
+C:\Users\d.florez\10p\Banshee\Banshee\bin\Debug\netcoreapp2.1\Banshee.pdb
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.csprojAssemblyReference.cache
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.csproj.CoreCompileInputs.cache
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.RazorAssemblyInfo.cache
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.RazorAssemblyInfo.cs
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.AssemblyInfoInputs.cache
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.AssemblyInfo.cs
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.RazorTargetAssemblyInfo.cache
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.dll
+C:\Users\d.florez\10p\Banshee\Banshee\obj\Debug\netcoreapp2.1\Banshee.pdb
